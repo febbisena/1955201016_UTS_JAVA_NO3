@@ -1,0 +1,2 @@
+# 1955201016_UTS_JAVA_NO3
+Saya membuat program sederhana yang melibatkan I/O Scanner, percabangan Switch Case, dan Perulangan Nested For. Program ini memungkinkan untuk mencetak segitiga siku-siku bintang sesuai pilihan user. Program akan menampilkan menu 4 bentuk segitiga siku-siku yang tersedia. User diminta memilih menu, lalu memasukkan tinggi segitiga yang diinginkan. Program akan mencetak segitiga bintang sesuai pilihan user dengan tinggi sesuai yang telah diinputkan.
